@@ -1,0 +1,26 @@
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\MonoTesting.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\MonoTesting.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\Mono logger.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\Mono target.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\Mono.Cecil.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\Mono logger.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\bin\Debug\Mono target.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\obj\Debug\MonoTesting.csprojResolveAssemblyReference.cache
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\obj\Debug\MonoTesting.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\MonoTesting\obj\Debug\MonoTesting.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\bin\Debug\MonoTesting.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\bin\Debug\MonoTesting.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\bin\Debug\Mono target.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\bin\Debug\Mono.Cecil.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\bin\Debug\Mono target.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\obj\Debug\MonoTesting.csprojResolveAssemblyReference.cache
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\obj\Debug\MonoTesting.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\MonoTesting\obj\Debug\MonoTesting.pdb

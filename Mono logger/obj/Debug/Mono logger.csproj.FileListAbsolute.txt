@@ -1,0 +1,28 @@
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\bin\Debug\Mono logger.exe.config
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\bin\Debug\Mono logger.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\bin\Debug\Mono logger.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\bin\Debug\Mono.Cecil.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\obj\Debug\Mono logger.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\obj\Debug\Mono logger.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono logger\Mono logger\obj\Debug\Mono logger.csprojResolveAssemblyReference.cache
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\Mono logger\bin\Debug\Mono logger.exe.config
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\Mono logger\bin\Debug\Mono logger.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\Mono logger\bin\Debug\Mono logger.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\Mono logger\bin\Debug\Mono.Cecil.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\Mono logger\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\Mono logger\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\Mono logger\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\Mono logger\obj\Debug\Mono logger.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\Mono logger\obj\Debug\Mono logger.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\bin\Debug\Mono logger.exe.config
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\bin\Debug\Mono logger.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\bin\Debug\Mono logger.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\bin\Debug\Mono.Cecil.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\obj\Debug\Mono logger.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono logger\obj\Debug\Mono logger.pdb

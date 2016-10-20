@@ -1,0 +1,10 @@
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\Mono target\bin\Debug\Mono target.exe.config
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\Mono target\bin\Debug\Mono target.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\Mono target\bin\Debug\Mono target.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\Mono target\obj\Debug\Mono target.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono target\Mono target\obj\Debug\Mono target.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono target\bin\Debug\Mono target.exe.config
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono target\bin\Debug\Mono target.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono target\bin\Debug\Mono target.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono target\obj\Debug\Mono target.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\Mono\Mono target\obj\Debug\Mono target.pdb

@@ -1,0 +1,25 @@
+Methods:
+	Constructor        - ok
+	Public methods     - ok
+	Private methods    - ok
+	Static methods     - ok
+Parameters:
+	Usual stack copy
+	paramters          - ok
+	Ref/out parameters - ok
+
+Tests !!!
+
+for 10!!!                  - ok
+Handler
+{
+	set
+	{
+  		value=new WeakDeleagete(value).Weak; 
+  		//...
+	}
+	get
+	{
+
+	}
+}

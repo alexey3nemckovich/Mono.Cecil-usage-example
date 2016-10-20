@@ -1,0 +1,42 @@
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {First}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {PrivateMethod}. PARAMETERS: {x = 5} and RETURNS {25}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {SecondPrivateMethod}. PARAMETERS: {x = 25} and RETURNS {35}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {First}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {PrivateMethod}. PARAMETERS: {x = 5} and RETURNS {25}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {SecondPrivateMethod}. PARAMETERS: {x = 25} and RETURNS {35}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Third}. PARAMETERS: {a = 2, b = 3} and RETURNS {5}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Third}. PARAMETERS: {a = 2, b = 3} and RETURNS {5}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Third}. PARAMETERS: {a = 2, b = 3} and RETURNS {5}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Third}. PARAMETERS: {a = 2, b = 3} and RETURNS {5}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Third}. PARAMETERS: {a = 2, b = 3} and RETURNS {5}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {none}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Second}. PARAMETERS: {x = 1}
+CLASS: {Mono_target.TargetAopClass}. METHOD: {Third}. PARAMETERS: {a = 2, b = 3} and RETURNS {5}
